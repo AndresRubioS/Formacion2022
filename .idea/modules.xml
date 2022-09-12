@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atSistemasPokemon.iml" filepath="$PROJECT_DIR$/.idea/modules/atSistemasPokemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/atSistemasPokemon.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/atSistemasPokemon.data.unitTest.iml" />
+    </modules>
+  </component>
+</project>
